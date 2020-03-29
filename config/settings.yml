@@ -1,0 +1,4 @@
+plugins:
+  adult_wearning_enabled:
+    default: true
+    client: true
