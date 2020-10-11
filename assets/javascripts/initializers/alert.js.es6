@@ -1,5 +1,3 @@
-import swal from '../plugin/sweetalert2'
-import Cookies from '../plugin/jquery.cookie'
 export default {
     name: 'adult-wearning',
     initialize() {
